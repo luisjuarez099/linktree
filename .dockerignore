@@ -1,0 +1,7 @@
+uploads
+Dockerfile
+docker-compose.yml
+*.pdf
+.git
+.idea
+jenkinsfile
